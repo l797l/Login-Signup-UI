@@ -16,7 +16,7 @@ A simple and responsive login, sign-up, and password reset page built using only
 
 ## 🌐 Live Website
 
-[Click here to visit the website](https://l797l.github.io/l797l-University-GPA-Calculator/)
+[Click here to visit the website](https://l797l.github.io/Login-Signup-UI/)
 
 ---
 
